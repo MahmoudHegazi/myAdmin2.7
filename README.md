@@ -3,8 +3,6 @@ MyAdmin PHP APP for IT department.
 
 ### the app not published yet still some updates
 
-## Download Only version 2.7
-
 ## How to setup:
 * use largon
 * in phpMyadmin import database file included inside the app root dirctory (myadmin_db_ver2.7) create the db with name (myadmin)
